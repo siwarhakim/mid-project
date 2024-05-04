@@ -1,4 +1,4 @@
-# mid-project#
+# mid-project
 
 Link to Tableau presentation: https://public.tableau.com/shared/BG8D3H25W?:display_count=n&:origin=viz_share_link
 
